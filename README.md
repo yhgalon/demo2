@@ -1,3 +1,3 @@
-# DEMO 2
+# NEW README
 
-Just read me.
+Edited file.
